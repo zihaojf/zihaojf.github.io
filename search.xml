@@ -19,7 +19,7 @@
 <p>成员函数(memeber function) ——类中的函数，有时也称作方法(method)</p>
 <h2 id="第二章-变量和基本类型"><a href="#第二章-变量和基本类型" class="headerlink" title="第二章 变量和基本类型"></a>第二章 变量和基本类型</h2><h2 id="2-1基本内置类型"><a href="#2-1基本内置类型" class="headerlink" title="2.1基本内置类型"></a>2.1基本内置类型</h2><h3 id="算术类型"><a href="#算术类型" class="headerlink" title="算术类型"></a>算术类型</h3><p>例如 int char double float bool long 等等</p>
 <p>算术类型分为带符号和不带符号</p>
-<h3 id="类型转换"><a href="#类型转换" class="headerlink" title="类型转换"></a>类型转换</h3><p><img src="/2021/08/12/c++primer%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/blog2\source_posts\c++primer学习笔记\1.png" alt="1"></p>
+<h3 id="类型转换"><a href="#类型转换" class="headerlink" title="类型转换"></a>类型转换</h3><p><img src="/2021/08/12/c++primer%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/1.png" alt="1"></p>
 ]]></content>
   </entry>
   <entry>
