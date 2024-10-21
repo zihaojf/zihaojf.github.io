@@ -27,7 +27,7 @@ jobs:
         - name: Deploy Web
           uses: peaceiris/actions-gh-pages@v4
           with:
-              PERSONAL_TOKEN: ${{ secrets.zihao }}
+              PERSONAL_TOKEN: ${{ secrets.hugo }}
               EXTERNAL_REPOSITORY: zihaojf/zihaojf.github.io
               PUBLISH_BRANCH: main
               PUBLISH_DIR: ./public
